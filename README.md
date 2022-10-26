@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="380" height="284" src="https://user-images.githubusercontent.com/31380824/120925945-81fd9200-c6f8-11eb-9767-ba8d947512b5.jpg">
 
-Yooo!! Yeshasvi here! Previous account got locked out so here's new one!
+Yooo!! Yeshasvi here! Previous account [@yanonymous](https://github.com/yanonymous) got locked out so here's new one!
 
 Someone who is deeply in love with Coding
 
