@@ -33,9 +33,9 @@ Someone who is deeply in love with Coding
 
 ### Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yanonymous&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=yanonymousV2&theme=dark&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanonymous&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanonymousV2&theme=dark&layout=compact)
 
 <p align="center">
       <img src="c.svg" alt="c" width="55" height="55"/>
